@@ -1,5 +1,5 @@
 # Site settings
-title: erangvee
+title: <erangvee>
 email: erangvee@gmail.com
 url: https://github.com/erangvee
 description: "This is all about me, what I do, and everything in between."
@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: erangvee
-  location: Location
-  social: Around the Web
+  location: <where i am>
+  social: <my repo>
   # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
