@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: erangvee
-  location: location
+  location: 
   social: social
   # credits: Credits
 
@@ -44,7 +44,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Quezon City, PH
+  - line: "📍 Quezon City, PH"
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
