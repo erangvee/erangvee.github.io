@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 2
 date: 2014-07-15
 img: copphil.png
 alt: copphil
-project-date: Ongoing
-client: ESA, EU, PhilSA, DOST
-category: Infrastructure
-description: I am heavily involved in the activities leading towards the deployment of the Copernicus National Mirror Site (the CopPhil Infrastructure), which is dedicated to the efficient distribution of large datasets in a controlled cloud environment. The Mirror Site's goal is to provide free, open, and immediately accessible information services through a Copernicus Data Center.
+project-date: 2022 to 2023
+client: APNIC Foundation
+category: Network, Professional Development
+description: I was a participant of the Switch! Philippines. The project, founded by the APNIC Foundation, aims to provide concrete and actionable support for women and gender diverse people working in the Internet technical sector who want to improve their professional credentials.
 ---
