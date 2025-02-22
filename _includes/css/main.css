@@ -375,7 +375,9 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-image: url('img/nasa-hubble-space-telescope-byrbbUPhcak-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .btn-social {
