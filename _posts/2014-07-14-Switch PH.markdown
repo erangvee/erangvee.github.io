@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 3
 date: 2014-07-15
-img: copphil.png
-alt: copphil
-project-date: Ongoing
+img: switch.png
+alt: switch
+project-date: Completed
 client: ESA, EU, PhilSA, DOST
 category: Infrastructure
 description: I am heavily involved in the activities leading towards the deployment of the Copernicus National Mirror Site (the CopPhil Infrastructure), which is dedicated to the efficient distribution of large datasets in a controlled cloud environment. The Mirror Site's goal is to provide free, open, and immediately accessible information services through a Copernicus Data Center.
