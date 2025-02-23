@@ -493,3 +493,11 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+
+.btn-link.btn-block.text-left {
+word-wrap: break-word;
+overflow-wrap: break-word;
+padding: 10px; /* Adjust as needed */
+}
