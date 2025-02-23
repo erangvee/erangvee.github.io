@@ -5,7 +5,11 @@ date: 2021-07-15
 img: coare.png
 alt: coare
 project-date: 2021
-client: COARE
-category: HPC
-description: Our team designed the implementation of the new HPC cluster of the Computing and Archiving Research Environment (COARE) called the "saliksik". We implemented the findings we had from our research, "Correcting job walltime in a resource-constrained environment" (2020).
+client: DOST-ASTI
+category: HPC, Infrastructure
+description: | 
+    Our team designed the implementation of the new HPC cluster of the Computing and Archiving Research Environment (COARE) called the _[saliksik](https://asti.dost.gov.ph/coare/wiki/Main/about-coare/service-catalogue/hpc)_. We implemented the findings we had from our published research:
+    
+    - [Simulation vs Actual Walltime Correction in a Real Production Resource-Constrained HPC](https://dl.acm.org/doi/abs/10.1145/3437359.3465583) (2021)
+    - [Correcting job walltime in a resource-constrained environment](https://dl.acm.org/doi/abs/10.1007/978-3-030-48842-0_8) (2020)
 ---
